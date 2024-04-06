@@ -9,6 +9,7 @@ body {
   header {
     padding: 20px;
     text-align: center;
+    background-color: grey;
   }
   
   h1 {
@@ -17,7 +18,7 @@ body {
   }
   
   .hero {
-    display: flex; 
+    
     align-items: center;
     justify-content: space-between; 
     min-height: 60vh; 
@@ -33,7 +34,7 @@ body {
   }
   
   .hero-text {
-    text-align: center; 
+    text-align: left; 
     color: #fff; 
   }
   
